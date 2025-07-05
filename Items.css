@@ -1,0 +1,11 @@
+body {
+    color: crimson;
+    background-image: url(wallpaper.png);
+}
+
+.title {
+    display: block;
+    position: relative;
+    left: 25.5cm;
+    top: 0.8cm;
+}

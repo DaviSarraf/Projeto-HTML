@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(wallpaper.png);
+    color: crimson;
+    }
+
+.title {
+    display: block;
+    position: relative;
+    padding-left: 48%;
+}
+
+.logo {
+    display: block;
+    position: relative;
+    bottom: 17cm;
+    left: 32cm;
+}
+
+.descricao2 {
+    display: block;
+    position: relative;
+    right: 32cm;
+    bottom: 3cm;
+}
+
+.oo {
+    display: block;
+    position: relative;
+    right: 15cm;
+    bottom: 1cm;
+    color: red;
+}
+
+.Classes {
+    display: block;
+    position: relative;
+    right: 6cm;
+    bottom: 4cm;
+    color: blue;
+}
+
+.Raças {
+    display: block;
+    position: relative;
+    bottom: 4cm;
+    left: -6cm;
+    color: blue;
+}
+
+.Items {
+    display: block;
+    position: relative;
+    bottom: 2.5cm;
+    left: -6cm;
+    color: blue;
+}
+
+.Inimigos {
+    display: block;
+    position: relative;
+    bottom: 2.5cm;
+    right: 6cm;
+    color: blue;
+}
+
+.Descrições {
+    display: block;
+    position: relative;
+    bottom: 2cm;
+    right: 6cm;
+    color: blue;
+}

@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(wallpaper.png);
+    color: crimson;
+}
+
+.title {
+    display: block;
+    position: relative;
+    padding-left: 50%;
+    padding-top: 0.3cm;
+}
+
+.classes {
+    display: block;
+    position: relative;
+    padding-left: 50%;
+    margin-top: 1cm;
+}
+
+.Melee {
+    display: block;
+    position: relative;
+    left: 7cm;
+    top: 2cm;
+}
+
+.Guerreiro {
+    display: block;
+    position: relative;
+    left: 14cm;
+    top: 0.7cm;
+}
+
+.Mago {
+    display: block;
+    position: relative;
+    left: 21cm;
+    top: -0.5cm;
+}
+
+.Suporte {
+    display: block;
+    position: relative;
+    left: 28cm;
+    top: -1.8cm;
+}
+
+.Producao {
+    display: block;
+    position: relative;
+    left: 35cm;
+    top: -3cm;
+}
+
+.Infantaria {
+    display: block;
+    position: relative;
+    left: 42cm;
+    top: -4.2cm;
+}
+
+.volta {
+    display: block;
+    position: relative;
+    bottom: 8.5cm;
+    left: 35cm;
+    color: blue;
+}
+
+.Estilos {
+    display: block;
+    position: relative;
+    left: 7.8cm;
+    top: -5.2cm;
+    color: blue;
+    width: 2cm;
+}

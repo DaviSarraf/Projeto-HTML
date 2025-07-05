@@ -1,0 +1,40 @@
+body {
+    color: crimson;
+    background-image: url(wallpaper.png);
+}
+
+.title {
+    display: block;
+    position: relative;
+    left: 25cm;
+    top: 0.8cm;
+}
+
+.Descricao {
+    display: block;
+    position: relative;
+    left: 6cm;
+    top: 10cm;
+}
+
+.Dependencias {
+    display: block;
+    position: relative;
+    left: 36cm;
+    top: 4.88cm;
+}
+
+.Status {
+    display: block;
+    position: relative;
+    left: 25cm;
+    top: -1.2cm;
+}
+
+.Volta {
+    color: blue;
+    display: block;
+    position: relative;
+    left: 29cm;
+    bottom: 15.5cm;
+}

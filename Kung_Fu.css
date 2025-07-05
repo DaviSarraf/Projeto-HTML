@@ -1,0 +1,40 @@
+.Nome {
+    display: block;
+    position: relative;
+    padding-left: 50%;
+    top: 0.5cm;
+}
+
+body{
+    color: crimson;
+    background-image: url(wallpaper.png);
+}
+
+.descricao {
+    display: block;
+    position: relative;
+    top: 10cm;
+    left: 5cm;
+}
+
+.Dependencia {
+    display: block;
+    position: relative;
+    top: 6.1cm;
+    left: 35cm;
+}
+
+.volta {
+    display: block;
+    position: relative;
+    bottom: 13cm;
+    left: 30cm;
+    color: blue;
+}
+
+.Status {
+    display: block;
+    position: relative;
+    top: 0.1cm;
+    left: 25cm;
+}
